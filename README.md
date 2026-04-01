@@ -1,4 +1,4 @@
 # Hello! I'm Vadim 👋
 
-Email: vad_kts@mail.ru
+Gmail: 
 LinkedIn: https://www.linkedin.com/in/vadim-kucenko/
